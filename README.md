@@ -1,23 +1,51 @@
-# Rajan Jha - Portfolio
+# Rajan Jha - Professional Portfolio 🚀
 
-A modern, interactive portfolio website built with Next.js, showcasing skills, projects, and experience with stunning 3D animations and responsive design.
+![Portfolio Banner](public/images/banner.jpg)
 
-*
+> A cutting-edge portfolio showcasing innovation through code, creativity, and interactive experiences.
+
 [![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://rajanjha.vercel.app)
+## 🎯 Key Features
 
-## 🚀 Features
+### 💫 Immersive User Experience
+- **Dynamic 3D Hero**: Interactive welcome section with Three.js animations
+- **Orbital Skills Display**: Unique skill visualization with interactive orbs
+- **Smooth Page Transitions**: Seamless navigation with Framer Motion
+- **Responsive Design**: Perfect display across all devices
 
-- **Interactive 3D Elements**: Three.js powered hero scenes, skill orbs, and rotating spheres
-- **Responsive Design**: Fully responsive layout that works on all devices
-- **Modern UI**: Built with Tailwind CSS and Radix UI components
-- **Dark/Light Theme**: Theme switching capability
-- **Contact Integration**: Email service and WhatsApp chat integration
-- **Blog Section**: Dynamic blog with slug-based routing
-- **Project Showcase**: Interactive project cards with detailed descriptions
-- **Skills Visualization**: Orbital skills display and expertise sections
-- **Admin Panel**: Admin interface for content management
-- **Performance Optimized**: Fast loading with Next.js optimizations
+### 🛠️ Professional Tools
+- **Project Showcase**: Interactive cards with live demos
+- **Blog Platform**: Share insights with dynamic routing
+- **Service Listings**: Showcase your professional offerings
+- **WhatsApp Integration**: Direct client communication
+## 🎨 Visual Experience
 
+![Portfolio Demo](public/images/demo.gif)
+
+### 🌓 Theme Switching
+![Theme Demo](public/images/theme-switch.gif)
+
+### 💻 Responsive Design
+![Responsive Demo](public/images/responsive.gif)
+
+## 🛠️ Technical Architecture
+
+```mermaid
+graph TD
+    A[Next.js App] --> B[Pages & Routes]
+    B --> C[Components]
+    C --> D[UI Elements]
+    C --> E[3D Elements]
+    C --> F[Animations]
+    A --> G[API Routes]
+    G --> H[Email Service]
+    G --> I[Blog API]
+    A --> J[State Management]
+    J --> K[Theme]
+    J --> L[UI State]
+```
+
+## 🚀 Getting Started
 ## 🛠️ Tech Stack
 
 - **Framework**: Next.js 15
@@ -40,31 +68,53 @@ cd portfolio
 ```
 
 2. Install dependencies:
-```bash
-pnpm install
-```
-
-3. Set up environment variables:
-Create a `.env.local` file in the root directory and add your environment variables.
-
-4. Run the development server:
-```bash
-pnpm dev
-```
-
-5. Open [http://localhost:3000](http://localhost:3000) in your browser.
-
-## 🏗️ Build
-
-To build the project for production:
+## 📂 Project Architecture
 
 ```bash
-pnpm build
+portfolio/
+├── 🏛️ app/                # Application Core
+│   ├── 🔐 admin/         # Admin Dashboard
+│   ├── 🚀 api/          # API Endpoints
+│   ├── 📝 blog/         # Blog Section
+│   ├── 💼 projects/     # Project Showcase
+│   └── 🛠️ services/     # Service Offerings
+├── 🧩 components/        # UI Components
+│   ├── 🎨 ui/          # Design System
+│   └── 🌟 three-js/    # 3D Elements
+├── 🎣 hooks/            # Custom Hooks
+├── 📚 lib/              # Utilities
+└── 🗃️ public/           # Static Assets
 ```
 
-## 🚀 Deployment
+## 🎨 Component Showcase
 
-Your project is live at:
+### 🌟 Hero Section
+The hero section features an interactive 3D scene with dynamic particle effects that respond to user movement.
+
+![Hero Section](public/images/hero.png)
+
+### 🔮 Skills Orbital
+A unique 3D visualization of technical skills using Three.js orbital mechanics.
+
+![Skills Orbital](public/images/skills.png)
+
+### 💼 Project Cards
+Elegant project displays with hover effects and detailed information.
+
+![Project Cards](public/images/projects.png)
+
+### ⏳ Experience Timeline
+A beautiful chronological display of professional experience.
+
+![Timeline](public/images/timeline.png)
+
+## 🌐 Browser Support
+
+| Chrome | Firefox | Edge | Safari | Opera |
+|:------:|:-------:|:----:|:------:|:-----:|
+|    ✅   |    ✅    |   ✅  |    ✅   |   ✅   |
+
+## 🤝 Contributingve at:
 
 **[https://vercel.com/rajanjha114430-gmailcoms-projects/v0-rajanjha-ey](https://vercel.com/rajanjha114430-gmailcoms-projects/v0-rajanjha-ey)**
 
@@ -119,4 +169,4 @@ Project Link: [https://github.com/Rajan167030/portfolio](https://github.com/Raja
 
 ---
 
-Built with ❤️ using Next.js and Three.js
+Built by Rajan Jha
