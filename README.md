@@ -2,8 +2,7 @@
 
 A modern, interactive portfolio website built with Next.js, showcasing skills, projects, and experience with stunning 3D animations and responsive design.
 
-*Automatically synced with your [v0.dev](https://v0.dev) deployments*
-
+*
 [![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://rajanjha.vercel.app)
 
 ## 🚀 Features
@@ -112,14 +111,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Rajan Jha - [Your Email]
 
-Project Link: [https://github.com/your-username/portfolio](https://github.com/your-username/portfolio)
+Project Link: [https://github.com/Rajan167030/portfolio](https://github.com/Rajan167030/portfolio)
 
 ## How It Works
 
-1. Create and modify your project using [v0.dev](https://v0.dev)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
+
 
 ---
 
