@@ -1,6 +1,7 @@
 # Rajan Jha - Professional Portfolio 🚀
 
-![Portfolio Banner](public/images/banner.jpg)
+<img width="1923" height="881" alt="Screenshot 2025-08-31 232429" src="https://github.com/user-attachments/assets/50079858-4274-4d49-978c-4e0035a8f665" />
+
 
 > A cutting-edge portfolio showcasing innovation through code, creativity, and interactive experiences.
 
